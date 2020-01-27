@@ -1,11 +1,11 @@
 # Site settings
 author: Winston Pemberton
-title: 
+title: First CLI Project
 header-img: img/home-bg.png
 email: winstonpemberton@gmail.com
 copyright_name: Winston Pemberton
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Day 1
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Winstonpemberton
