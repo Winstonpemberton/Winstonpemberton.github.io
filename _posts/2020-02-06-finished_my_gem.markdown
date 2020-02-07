@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Finished My Gem"
-date:       2020-02-07 00:37:54 +0000
+date:       2020-02-06 19:37:55 -0500
 permalink:  finished_my_gem
 ---
 
